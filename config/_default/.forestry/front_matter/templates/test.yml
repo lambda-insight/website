@@ -1,4 +1,10 @@
 ---
 label: Test
 hide_body: false
-fields: []
+fields:
+- name: test-name
+  type: text
+  config:
+    required: false
+  label: test-label
+  description: This is my test page
