@@ -8,3 +8,5 @@ fields:
     required: false
   label: test-label
   description: This is my test page
+pages:
+- config/_default/content/test-file-name.md
