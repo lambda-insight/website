@@ -1,0 +1,17 @@
+baseURL = "https://lambda-insight.github.io"
+languageCode = "en-us"
+title = "Hugo Grayscale Theme"
+theme = "grayscale"
+#googleAnalytics = ""
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+    # Provide some metadata for search and indexing services
+    description = "A port of the Grayscale theme to Hugo"
+
+[Author]
+    name = "Lambda Insight, Kemp House, 152 - 160 City Road, London EC1V 2NX. Incorporated in England & Wales Registration number: 12587855"
+    email = "lambda.insight@gmail.com"
+
+[Social]
+    twitter = "stream_running"

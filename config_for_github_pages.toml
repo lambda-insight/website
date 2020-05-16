@@ -1,0 +1,13 @@
+baseURL = "https://lambda-insight.github.io"
+languageCode = "en-us"
+title = "Lambda Insight"
+theme = "grayscale"
+#googleAnalytics = ""
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+    # Provide some metadata for search and indexing services
+
+[Author]
+
+[Social]
