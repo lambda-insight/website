@@ -5,3 +5,7 @@
 	path = public
 	url = https://github.com/lambda-insight/lambda-insight.github.io.git
 	branch = master
+[submodule "themes/grayscale"]
+	path = themes/grayscale
+	url = https://github.com/lambda-insight/hugograyscale.git
+	branch = master
