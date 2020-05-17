@@ -1,6 +1,6 @@
 ---
-title: " Lambda insight "
+title: "( Lambda Insight Ltd )"
 date: 2018-09-09T00:00:00-00:00
 copyright: "LambdaInsight"
-description: "A port of the Grayscale theme to Hugo"
+description: "A landing page for Lamda Insight Ltd"
 ---
